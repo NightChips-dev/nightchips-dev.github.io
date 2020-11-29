@@ -1,5 +1,6 @@
 [
   {width: 1920, height: 1080, availWidth: 1920, availHeight: 1040},
-  {width: 1600, height: 900, availWidth: 1600, availHeight: 864}
-
+  {width: 1600, height: 900, availWidth: 1600, availHeight: 864},
+  {width: 1920, height: 1080, availWidth: 1920, availHeight: 1050},
+  {width: 1440, height: 900, availWidth: 1440, availHeight: 791}
 ]
